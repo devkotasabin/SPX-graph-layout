@@ -13,8 +13,11 @@ Requires the following packages
   * matplotlib
   * scipy
   * CPLEX with python API [https://www.ibm.com/analytics/cplex-optimizer]
-  
-### Pulications
+
+## License
+LGPLv2. (Click here)[https://github.com/devkotasabin/SPX-graph-layout/blob/master/LICENSE] for more details.
+
+## Pulications
 
 Please cite:
 
