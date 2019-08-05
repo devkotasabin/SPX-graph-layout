@@ -15,7 +15,7 @@ Requires the following packages
   * CPLEX with python API [https://www.ibm.com/analytics/cplex-optimizer]
 
 ## License
-LGPLv2. (https://github.com/devkotasabin/SPX-graph-layout/blob/master/LICENSE)[Click here] for more details.
+LGPLv2. (Click here)[https://github.com/devkotasabin/SPX-graph-layout/blob/master/LICENSE] for more details.
 
 ## Pulications
 
