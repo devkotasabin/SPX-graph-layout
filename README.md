@@ -21,5 +21,5 @@ LGPLv2. [Click here](https://github.com/devkotasabin/SPX-graph-layout/blob/maste
 
 Please cite:
 
-
+S. Devkota, R. Ahmed, F. De Luca, K. Isaacs, S. Kobourov, "Stress-Plux-X (SPX) Graph Layout", to appear in Graph Drawing and Network Visualization, 2019
 
