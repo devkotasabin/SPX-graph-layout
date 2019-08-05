@@ -13,3 +13,10 @@ Requires the following packages
   * matplotlib
   * scipy
   * CPLEX with python API [https://www.ibm.com/analytics/cplex-optimizer]
+  
+### Pulications
+
+Please cite:
+
+
+
